@@ -1,0 +1,251 @@
+Student_ID,Student_Name,Age,Gender,School_Name,City,Board,Class,Attendance_Percentage,Math_Score,Science_Score,English_Score,Final_Grade
+1,Student_1,16,Male,Green Valley School,Delhi,CBSE,4,65.58,48,46,89,A
+2,Student_2,6,Male,Sunrise Public School,Mumbai,State Board,10,61.06,60,88,63,B
+3,Student_3,15,Female,Green Valley School,Mumbai,State Board,7,73.61,54,62,78,A
+4,Student_4,7,Female,Green Valley School,Delhi,ICSE,10,70.58,40,93,50,B
+5,Student_5,7,Female,Oxford International,Delhi,State Board,4,88.18,40,64,72,A
+6,Student_6,9,Male,Blue Ridge High,Delhi,ICSE,11,93.36,55,82,80,A
+7,Student_7,16,Female,Green Valley School,Hyderabad,State Board,3,81.37,66,55,94,B
+8,Student_8,10,Male,St. Xavier's School,Pune,CBSE,1,92.2,86,69,43,A
+9,Student_9,15,Female,Sunrise Public School,Bangalore,ICSE,11,78.35,68,52,66,C
+10,Student_10,14,Female,Oxford International,Bangalore,State Board,7,74.48,52,100,98,A
+11,Student_11,18,Male,Green Valley School,Mumbai,State Board,3,91.68,89,43,84,B
+12,Student_12,15,Female,Oxford International,Delhi,State Board,1,87.21,49,69,78,A
+13,Student_13,10,Female,Sunrise Public School,Bangalore,CBSE,12,95.03,68,99,57,C
+14,Student_14,7,Female,Oxford International,Hyderabad,CBSE,3,74.96,55,35,76,B
+15,Student_15,6,Male,St. Xavier's School,Delhi,CBSE,1,69.63,45,45,97,A
+16,Student_16,18,Male,Sunrise Public School,Bangalore,State Board,3,70.6,89,62,60,C
+17,Student_17,10,Female,St. Xavier's School,Bangalore,State Board,8,64.84,63,43,78,A
+18,Student_18,15,Male,Oxford International,Mumbai,CBSE,2,88.31,42,64,43,A
+19,Student_19,11,Male,Oxford International,Mumbai,ICSE,11,79.42,51,95,66,B
+20,Student_20,18,Female,Sunrise Public School,Pune,CBSE,11,77.24,89,87,94,C
+21,Student_21,6,Male,Green Valley School,Bangalore,State Board,6,92.02,48,66,59,A
+22,Student_22,14,Female,Sunrise Public School,Bangalore,CBSE,5,78.51,44,91,47,A
+23,Student_23,16,Male,Green Valley School,Mumbai,CBSE,7,79.43,62,86,42,A
+24,Student_24,12,Male,Blue Ridge High,Delhi,ICSE,5,76.92,97,54,59,B
+25,Student_25,9,Male,Oxford International,Hyderabad,CBSE,12,72.54,41,96,99,C
+26,Student_26,8,Male,Oxford International,Pune,CBSE,2,83.8,65,86,50,C
+27,Student_27,9,Male,Oxford International,Pune,ICSE,11,83.35,75,68,61,C
+28,Student_28,17,Female,Sunrise Public School,Delhi,ICSE,3,86.87,73,93,75,A
+29,Student_29,6,Female,Oxford International,Hyderabad,CBSE,2,81.51,99,68,51,B
+30,Student_30,7,Male,St. Xavier's School,Delhi,CBSE,8,93.35,73,36,73,C
+31,Student_31,7,Male,St. Xavier's School,Pune,CBSE,12,82.13,69,71,61,C
+32,Student_32,11,Male,St. Xavier's School,Hyderabad,ICSE,5,96.21,41,46,89,B
+33,Student_33,6,Male,St. Xavier's School,Mumbai,State Board,5,66.46,91,89,36,A
+34,Student_34,7,Male,Oxford International,Pune,ICSE,10,82.1,90,51,40,B
+35,Student_35,11,Male,St. Xavier's School,Mumbai,State Board,4,86.68,80,87,54,A
+36,Student_36,8,Male,Blue Ridge High,Pune,CBSE,12,96.98,87,66,69,A
+37,Student_37,18,Male,Blue Ridge High,Pune,ICSE,4,67.98,93,79,74,A
+38,Student_38,9,Male,Sunrise Public School,Bangalore,ICSE,5,94.57,70,79,100,B
+39,Student_39,16,Female,Green Valley School,Pune,ICSE,3,83.22,68,39,48,C
+40,Student_40,12,Female,St. Xavier's School,Bangalore,State Board,9,64.63,59,67,40,C
+41,Student_41,12,Male,Oxford International,Hyderabad,State Board,12,97.61,60,81,90,A
+42,Student_42,16,Female,Oxford International,Delhi,State Board,2,88.79,73,99,74,C
+43,Student_43,12,Female,Blue Ridge High,Delhi,State Board,3,67.67,83,57,73,B
+44,Student_44,14,Male,St. Xavier's School,Delhi,CBSE,7,91.43,76,94,91,B
+45,Student_45,16,Male,Oxford International,Bangalore,State Board,3,86.35,71,100,77,A
+46,Student_46,18,Male,St. Xavier's School,Mumbai,CBSE,3,60.98,66,95,44,B
+47,Student_47,12,Male,Blue Ridge High,Bangalore,ICSE,4,65.9,35,48,89,A
+48,Student_48,8,Female,Green Valley School,Hyderabad,CBSE,2,78.26,94,75,91,C
+49,Student_49,17,Female,Oxford International,Bangalore,CBSE,12,94.46,92,68,66,C
+50,Student_50,10,Female,Sunrise Public School,Delhi,ICSE,2,88.54,65,69,77,B
+51,Student_51,14,Male,Sunrise Public School,Mumbai,CBSE,7,87.76,62,43,88,B
+52,Student_52,11,Female,Blue Ridge High,Pune,CBSE,7,75.58,37,83,96,A
+53,Student_53,11,Female,Blue Ridge High,Bangalore,State Board,12,89.39,63,97,63,B
+54,Student_54,12,Female,Green Valley School,Bangalore,ICSE,11,87.17,86,56,94,A
+55,Student_55,15,Male,Blue Ridge High,Hyderabad,State Board,11,61.08,89,52,94,A
+56,Student_56,6,Female,Blue Ridge High,Delhi,CBSE,8,73.07,83,70,88,B
+57,Student_57,7,Female,Green Valley School,Hyderabad,CBSE,6,68.97,43,40,38,A
+58,Student_58,9,Male,Oxford International,Mumbai,CBSE,3,78.94,49,62,94,C
+59,Student_59,10,Female,Sunrise Public School,Hyderabad,State Board,12,88.73,55,74,48,C
+60,Student_60,6,Female,Oxford International,Bangalore,ICSE,12,67.93,66,48,73,C
+61,Student_61,15,Male,Oxford International,Pune,ICSE,9,77.14,82,43,99,C
+62,Student_62,11,Male,Blue Ridge High,Bangalore,CBSE,7,98.43,93,54,90,A
+63,Student_63,17,Female,Oxford International,Hyderabad,ICSE,8,77.42,69,76,66,A
+64,Student_64,10,Female,Sunrise Public School,Bangalore,State Board,10,86.73,78,38,98,B
+65,Student_65,8,Female,Sunrise Public School,Delhi,ICSE,6,71.19,70,36,59,A
+66,Student_66,9,Female,Blue Ridge High,Hyderabad,CBSE,12,79.04,97,92,37,A
+67,Student_67,10,Male,Blue Ridge High,Mumbai,ICSE,11,83.26,95,79,89,C
+68,Student_68,14,Female,St. Xavier's School,Bangalore,ICSE,5,70.06,50,59,75,A
+69,Student_69,17,Male,Sunrise Public School,Mumbai,State Board,8,71.06,71,47,59,B
+70,Student_70,9,Female,Sunrise Public School,Delhi,CBSE,12,81.37,70,40,41,C
+71,Student_71,10,Male,Blue Ridge High,Pune,CBSE,10,71.37,96,91,78,A
+72,Student_72,6,Female,Blue Ridge High,Pune,CBSE,7,79.67,41,54,54,C
+73,Student_73,10,Male,Sunrise Public School,Pune,State Board,7,84.25,63,83,92,B
+74,Student_74,10,Female,St. Xavier's School,Hyderabad,State Board,1,84.39,47,61,62,B
+75,Student_75,16,Male,Sunrise Public School,Mumbai,CBSE,9,63.0,35,87,92,C
+76,Student_76,15,Female,St. Xavier's School,Pune,CBSE,5,88.28,93,44,64,B
+77,Student_77,18,Male,Blue Ridge High,Pune,State Board,4,85.91,69,53,44,A
+78,Student_78,8,Female,Oxford International,Hyderabad,ICSE,8,64.97,73,86,69,C
+79,Student_79,14,Female,Blue Ridge High,Pune,State Board,1,95.58,76,67,38,A
+80,Student_80,9,Male,St. Xavier's School,Hyderabad,CBSE,3,78.82,91,70,58,C
+81,Student_81,12,Female,Green Valley School,Bangalore,ICSE,7,73.33,48,55,77,B
+82,Student_82,17,Female,St. Xavier's School,Bangalore,State Board,1,78.19,75,67,76,A
+83,Student_83,18,Female,Oxford International,Pune,State Board,9,78.48,41,59,81,C
+84,Student_84,18,Female,Blue Ridge High,Pune,CBSE,5,81.97,71,91,97,A
+85,Student_85,6,Male,Sunrise Public School,Delhi,State Board,1,82.09,46,63,49,B
+86,Student_86,7,Male,Blue Ridge High,Delhi,State Board,12,70.94,96,95,66,B
+87,Student_87,14,Male,Blue Ridge High,Mumbai,State Board,9,89.85,52,43,70,B
+88,Student_88,11,Female,Green Valley School,Delhi,State Board,5,93.5,97,54,92,C
+89,Student_89,13,Female,St. Xavier's School,Hyderabad,State Board,7,78.21,76,59,65,C
+90,Student_90,12,Male,Blue Ridge High,Pune,ICSE,12,78.92,83,84,54,B
+91,Student_91,6,Male,Oxford International,Hyderabad,ICSE,2,94.97,91,47,93,A
+92,Student_92,17,Male,Blue Ridge High,Mumbai,CBSE,8,91.26,68,78,85,C
+93,Student_93,7,Female,Oxford International,Bangalore,ICSE,11,88.75,97,39,43,A
+94,Student_94,16,Female,Sunrise Public School,Pune,ICSE,2,90.41,47,91,56,C
+95,Student_95,10,Male,Green Valley School,Delhi,CBSE,5,74.34,90,53,66,C
+96,Student_96,12,Male,Sunrise Public School,Mumbai,CBSE,10,94.83,65,98,53,A
+97,Student_97,13,Female,Blue Ridge High,Delhi,State Board,1,95.96,94,71,55,A
+98,Student_98,13,Female,Oxford International,Delhi,State Board,7,87.61,93,73,60,B
+99,Student_99,13,Male,Sunrise Public School,Bangalore,State Board,6,82.99,72,37,85,B
+100,Student_100,6,Male,Oxford International,Bangalore,ICSE,4,84.28,80,63,59,C
+101,Student_101,10,Male,Green Valley School,Pune,ICSE,8,61.33,81,51,46,B
+102,Student_102,11,Female,Sunrise Public School,Mumbai,CBSE,9,95.06,81,99,69,A
+103,Student_103,10,Female,St. Xavier's School,Delhi,CBSE,8,98.52,53,63,85,C
+104,Student_104,11,Male,Blue Ridge High,Pune,ICSE,9,64.94,82,68,83,C
+105,Student_105,11,Male,Sunrise Public School,Bangalore,CBSE,10,95.37,76,63,43,C
+106,Student_106,13,Female,Blue Ridge High,Pune,CBSE,1,97.85,73,98,49,A
+107,Student_107,9,Male,Blue Ridge High,Bangalore,ICSE,11,97.98,88,54,88,C
+108,Student_108,7,Female,Oxford International,Bangalore,ICSE,1,87.61,62,91,91,A
+109,Student_109,11,Male,St. Xavier's School,Hyderabad,State Board,6,62.42,70,59,50,B
+110,Student_110,7,Male,Oxford International,Pune,CBSE,6,69.74,51,61,43,C
+111,Student_111,9,Male,Sunrise Public School,Delhi,CBSE,10,60.11,53,51,67,A
+112,Student_112,7,Male,Sunrise Public School,Pune,ICSE,4,83.55,37,57,68,A
+113,Student_113,8,Female,Oxford International,Pune,State Board,2,79.05,81,100,48,B
+114,Student_114,14,Male,Oxford International,Pune,State Board,11,80.86,93,38,42,B
+115,Student_115,12,Female,Green Valley School,Bangalore,State Board,8,62.94,45,76,53,A
+116,Student_116,8,Female,Oxford International,Hyderabad,State Board,12,73.01,72,93,99,C
+117,Student_117,12,Male,Green Valley School,Hyderabad,State Board,4,77.2,64,87,78,B
+118,Student_118,12,Female,Green Valley School,Delhi,ICSE,6,86.6,82,54,95,A
+119,Student_119,7,Male,Green Valley School,Bangalore,CBSE,12,89.55,51,42,77,C
+120,Student_120,7,Female,St. Xavier's School,Bangalore,State Board,1,98.74,74,80,48,C
+121,Student_121,14,Male,Sunrise Public School,Bangalore,CBSE,2,74.0,82,49,70,C
+122,Student_122,9,Female,Oxford International,Hyderabad,State Board,11,85.71,38,69,38,A
+123,Student_123,10,Female,St. Xavier's School,Delhi,CBSE,3,94.79,86,43,53,C
+124,Student_124,16,Male,Green Valley School,Hyderabad,CBSE,7,76.79,78,55,82,B
+125,Student_125,17,Female,Oxford International,Hyderabad,CBSE,1,66.22,41,45,69,B
+126,Student_126,16,Female,Blue Ridge High,Hyderabad,ICSE,7,70.93,100,49,79,B
+127,Student_127,7,Female,Oxford International,Bangalore,State Board,11,72.34,63,85,42,A
+128,Student_128,9,Female,Sunrise Public School,Mumbai,ICSE,5,73.12,35,98,90,A
+129,Student_129,8,Female,Oxford International,Mumbai,State Board,9,93.33,80,44,85,C
+130,Student_130,6,Female,Green Valley School,Bangalore,CBSE,6,83.03,86,88,72,A
+131,Student_131,12,Male,St. Xavier's School,Mumbai,State Board,8,93.28,81,46,90,A
+132,Student_132,9,Female,Oxford International,Bangalore,State Board,2,75.83,74,78,63,B
+133,Student_133,18,Male,Green Valley School,Hyderabad,State Board,2,81.22,59,79,79,C
+134,Student_134,16,Male,Sunrise Public School,Pune,CBSE,5,67.89,54,44,57,C
+135,Student_135,13,Female,Oxford International,Hyderabad,ICSE,11,96.97,76,75,54,B
+136,Student_136,7,Female,Blue Ridge High,Delhi,ICSE,10,62.25,99,44,74,B
+137,Student_137,13,Male,Green Valley School,Delhi,ICSE,2,85.79,46,99,84,B
+138,Student_138,15,Male,Blue Ridge High,Hyderabad,State Board,4,72.86,95,99,54,A
+139,Student_139,13,Male,St. Xavier's School,Pune,State Board,11,66.9,66,91,91,C
+140,Student_140,14,Male,St. Xavier's School,Delhi,ICSE,7,76.35,78,41,77,A
+141,Student_141,11,Male,Oxford International,Bangalore,ICSE,5,88.95,54,77,45,C
+142,Student_142,16,Male,St. Xavier's School,Delhi,State Board,12,86.49,51,45,74,C
+143,Student_143,12,Female,Sunrise Public School,Hyderabad,CBSE,11,86.82,100,81,37,B
+144,Student_144,10,Male,Sunrise Public School,Delhi,ICSE,4,69.06,52,54,44,B
+145,Student_145,18,Male,Oxford International,Hyderabad,State Board,9,61.51,78,51,83,A
+146,Student_146,8,Male,Oxford International,Mumbai,State Board,8,61.75,81,65,91,C
+147,Student_147,10,Female,Sunrise Public School,Hyderabad,CBSE,5,98.62,95,59,82,C
+148,Student_148,15,Female,Blue Ridge High,Delhi,ICSE,9,81.1,55,60,52,B
+149,Student_149,6,Female,St. Xavier's School,Hyderabad,CBSE,12,93.84,50,71,45,A
+150,Student_150,10,Female,Oxford International,Mumbai,ICSE,2,97.86,63,92,79,A
+151,Student_151,12,Male,Blue Ridge High,Hyderabad,ICSE,4,75.45,45,82,63,A
+152,Student_152,11,Male,St. Xavier's School,Mumbai,CBSE,1,71.48,95,52,95,B
+153,Student_153,15,Male,Green Valley School,Pune,ICSE,4,93.4,89,49,71,A
+154,Student_154,10,Male,Green Valley School,Mumbai,ICSE,11,91.76,93,43,49,B
+155,Student_155,15,Male,Oxford International,Hyderabad,CBSE,12,65.74,89,35,80,A
+156,Student_156,15,Female,Sunrise Public School,Pune,State Board,6,62.71,99,99,37,B
+157,Student_157,13,Male,Blue Ridge High,Delhi,ICSE,12,60.65,43,79,65,C
+158,Student_158,16,Male,Oxford International,Delhi,CBSE,1,74.09,78,57,94,C
+159,Student_159,13,Male,Sunrise Public School,Pune,State Board,8,61.48,60,40,60,A
+160,Student_160,11,Female,Oxford International,Bangalore,State Board,8,70.13,59,71,80,A
+161,Student_161,16,Female,St. Xavier's School,Pune,ICSE,7,95.58,91,84,78,A
+162,Student_162,13,Female,St. Xavier's School,Hyderabad,ICSE,2,89.08,45,90,58,C
+163,Student_163,10,Female,Green Valley School,Pune,ICSE,11,71.83,92,89,56,C
+164,Student_164,13,Female,Blue Ridge High,Pune,State Board,6,84.59,90,70,42,A
+165,Student_165,16,Female,St. Xavier's School,Hyderabad,State Board,11,66.4,38,53,91,A
+166,Student_166,8,Male,Sunrise Public School,Delhi,ICSE,7,97.98,39,54,92,B
+167,Student_167,11,Female,Green Valley School,Hyderabad,CBSE,9,74.68,75,70,66,A
+168,Student_168,6,Male,Blue Ridge High,Hyderabad,ICSE,9,64.71,68,92,62,C
+169,Student_169,10,Female,Sunrise Public School,Pune,CBSE,2,78.08,91,46,75,C
+170,Student_170,11,Male,Oxford International,Hyderabad,ICSE,5,94.05,57,81,100,A
+171,Student_171,7,Male,Sunrise Public School,Mumbai,ICSE,1,74.44,82,94,51,C
+172,Student_172,7,Male,St. Xavier's School,Bangalore,State Board,12,79.15,87,87,44,A
+173,Student_173,11,Male,Blue Ridge High,Bangalore,State Board,9,73.78,58,51,90,C
+174,Student_174,6,Male,Oxford International,Mumbai,ICSE,3,66.48,63,79,71,A
+175,Student_175,10,Male,Oxford International,Delhi,CBSE,11,72.11,46,99,56,C
+176,Student_176,15,Male,Sunrise Public School,Hyderabad,State Board,10,73.5,40,38,45,A
+177,Student_177,16,Female,Sunrise Public School,Hyderabad,ICSE,10,85.56,98,72,73,B
+178,Student_178,9,Female,St. Xavier's School,Bangalore,CBSE,12,62.4,91,88,96,B
+179,Student_179,9,Female,Oxford International,Mumbai,ICSE,12,72.77,79,86,51,B
+180,Student_180,14,Male,St. Xavier's School,Mumbai,ICSE,2,70.7,66,53,47,A
+181,Student_181,10,Female,Oxford International,Bangalore,CBSE,3,92.54,75,59,55,B
+182,Student_182,14,Female,Blue Ridge High,Delhi,ICSE,1,63.6,85,99,93,A
+183,Student_183,9,Female,Green Valley School,Pune,ICSE,8,83.9,95,71,36,A
+184,Student_184,12,Male,St. Xavier's School,Delhi,ICSE,6,61.81,41,59,81,C
+185,Student_185,10,Male,Blue Ridge High,Hyderabad,ICSE,9,71.19,50,51,47,B
+186,Student_186,11,Female,Oxford International,Delhi,CBSE,4,84.1,86,99,40,A
+187,Student_187,6,Male,St. Xavier's School,Bangalore,State Board,8,65.96,100,52,76,C
+188,Student_188,11,Male,Blue Ridge High,Hyderabad,State Board,5,83.75,99,100,97,C
+189,Student_189,15,Female,Blue Ridge High,Pune,ICSE,6,86.95,88,74,38,C
+190,Student_190,13,Female,Oxford International,Hyderabad,CBSE,12,62.05,96,56,83,A
+191,Student_191,16,Male,Green Valley School,Hyderabad,State Board,2,67.63,91,75,88,A
+192,Student_192,12,Male,Blue Ridge High,Hyderabad,State Board,8,94.91,42,52,61,C
+193,Student_193,11,Female,Oxford International,Bangalore,ICSE,3,78.39,78,80,68,C
+194,Student_194,13,Male,Sunrise Public School,Delhi,State Board,5,68.99,73,71,61,C
+195,Student_195,17,Female,St. Xavier's School,Bangalore,ICSE,9,97.35,70,71,50,C
+196,Student_196,16,Female,Blue Ridge High,Delhi,CBSE,5,61.68,45,79,91,C
+197,Student_197,10,Female,Sunrise Public School,Mumbai,State Board,5,97.32,69,52,48,C
+198,Student_198,17,Male,Sunrise Public School,Pune,State Board,9,69.03,64,41,47,B
+199,Student_199,11,Female,Green Valley School,Mumbai,CBSE,9,99.12,55,87,95,B
+200,Student_200,16,Male,St. Xavier's School,Delhi,ICSE,11,62.37,46,64,39,A
+201,Student_201,12,Male,Green Valley School,Bangalore,ICSE,3,97.46,72,39,36,B
+202,Student_202,15,Male,St. Xavier's School,Delhi,ICSE,11,81.73,98,52,99,B
+203,Student_203,10,Male,Green Valley School,Delhi,CBSE,12,78.36,67,58,36,C
+204,Student_204,11,Female,Oxford International,Mumbai,CBSE,10,94.25,86,89,100,B
+205,Student_205,7,Female,Green Valley School,Mumbai,CBSE,8,72.94,66,35,68,B
+206,Student_206,9,Female,St. Xavier's School,Delhi,ICSE,10,88.92,36,68,81,C
+207,Student_207,9,Male,Green Valley School,Bangalore,ICSE,3,76.22,99,74,50,C
+208,Student_208,10,Female,Oxford International,Mumbai,CBSE,3,79.13,93,82,88,C
+209,Student_209,14,Female,Oxford International,Mumbai,CBSE,11,90.19,45,92,81,A
+210,Student_210,15,Male,Green Valley School,Hyderabad,State Board,4,82.91,54,56,76,C
+211,Student_211,13,Male,Sunrise Public School,Hyderabad,ICSE,2,95.96,92,42,93,A
+212,Student_212,14,Female,Blue Ridge High,Hyderabad,CBSE,9,78.5,74,37,85,B
+213,Student_213,6,Male,Oxford International,Pune,CBSE,7,73.78,43,42,43,B
+214,Student_214,6,Female,Blue Ridge High,Mumbai,CBSE,11,99.13,88,82,83,B
+215,Student_215,12,Female,Green Valley School,Hyderabad,CBSE,11,94.41,50,57,85,C
+216,Student_216,8,Male,Green Valley School,Pune,ICSE,8,86.94,89,83,64,A
+217,Student_217,13,Female,Sunrise Public School,Delhi,CBSE,12,90.62,39,88,37,A
+218,Student_218,9,Male,Green Valley School,Hyderabad,CBSE,8,83.91,41,66,40,B
+219,Student_219,13,Male,Oxford International,Mumbai,CBSE,3,80.16,72,64,75,C
+220,Student_220,15,Female,Sunrise Public School,Delhi,CBSE,11,80.85,87,73,70,A
+221,Student_221,14,Male,Blue Ridge High,Hyderabad,ICSE,1,98.89,83,75,88,B
+222,Student_222,8,Female,Blue Ridge High,Mumbai,State Board,8,69.64,63,73,53,B
+223,Student_223,6,Female,Blue Ridge High,Hyderabad,State Board,3,75.54,67,61,77,C
+224,Student_224,7,Female,St. Xavier's School,Pune,State Board,12,93.18,41,69,83,C
+225,Student_225,15,Male,Green Valley School,Mumbai,State Board,12,86.86,62,96,61,B
+226,Student_226,10,Male,Sunrise Public School,Mumbai,State Board,2,89.88,96,66,61,B
+227,Student_227,9,Female,St. Xavier's School,Bangalore,ICSE,9,85.95,74,68,81,C
+228,Student_228,13,Female,Green Valley School,Bangalore,ICSE,4,74.83,87,40,63,C
+229,Student_229,8,Male,St. Xavier's School,Hyderabad,State Board,10,88.8,72,54,60,B
+230,Student_230,9,Female,Oxford International,Mumbai,ICSE,9,86.18,78,67,97,C
+231,Student_231,16,Female,Blue Ridge High,Mumbai,State Board,6,66.77,97,58,42,C
+232,Student_232,6,Male,Green Valley School,Pune,ICSE,3,93.7,64,43,54,A
+233,Student_233,9,Female,St. Xavier's School,Pune,State Board,11,86.67,96,97,37,A
+234,Student_234,14,Female,Green Valley School,Pune,State Board,12,70.99,71,37,99,C
+235,Student_235,16,Female,Sunrise Public School,Pune,CBSE,9,65.96,59,67,80,B
+236,Student_236,18,Female,Green Valley School,Delhi,ICSE,8,82.6,63,73,45,C
+237,Student_237,16,Male,Green Valley School,Bangalore,ICSE,7,82.11,42,36,56,A
+238,Student_238,13,Female,St. Xavier's School,Hyderabad,CBSE,9,96.77,64,62,95,B
+239,Student_239,6,Male,St. Xavier's School,Hyderabad,State Board,11,61.32,75,37,61,C
+240,Student_240,8,Female,Green Valley School,Delhi,CBSE,10,69.62,84,77,84,C
+241,Student_241,8,Male,Oxford International,Delhi,CBSE,2,77.48,44,78,85,B
+242,Student_242,6,Female,Blue Ridge High,Bangalore,CBSE,6,82.12,83,90,58,C
+243,Student_243,15,Female,Green Valley School,Hyderabad,ICSE,4,88.52,45,69,54,B
+244,Student_244,17,Male,Blue Ridge High,Delhi,ICSE,2,63.66,74,91,81,B
+245,Student_245,7,Male,Green Valley School,Mumbai,ICSE,8,82.28,100,87,48,A
+246,Student_246,7,Female,Oxford International,Pune,State Board,10,91.38,84,36,72,B
+247,Student_247,12,Male,Oxford International,Mumbai,State Board,9,66.78,83,56,52,B
+248,Student_248,10,Female,Blue Ridge High,Mumbai,CBSE,3,77.39,88,73,96,A
+249,Student_249,11,Female,Sunrise Public School,Bangalore,State Board,10,67.82,48,52,73,A
+250,Student_250,12,Female,Oxford International,Bangalore,ICSE,8,73.39,52,73,76,C
